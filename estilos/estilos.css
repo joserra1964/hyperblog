@@ -5,6 +5,22 @@ body {
     font-size: 16px;
 }
 
+#cabecera{    
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;    
+    box-shadow: 13px 13px 11px 1px rgba(0,0,0,0.84);
+    background: #AE951A;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+
 #container {
     width: 70%;
     padding: 1em;
