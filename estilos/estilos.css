@@ -58,3 +58,11 @@ body
     padding: 0.5em;
 
 }
+
+#colaborador {
+    background: lightgreen;
+    font-weight: bold;
+    color: darkblue;
+    text-align: justify;
+    padding: 0.5em 0.5em 0.5em 5.5em;
+}
