@@ -8,6 +8,12 @@ body
     margin: 0;
     padding: 0;
 }
+#encabezamiento
+{
+    background-color: chartreuse;
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
 #cabecera
 {
